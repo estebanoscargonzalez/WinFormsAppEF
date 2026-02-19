@@ -5,7 +5,7 @@ Este proyecto es un CRUD de escritorio desarrollado en **C#** usando **WinForms*
 ## Base de datos
 - SQL Server (administrado con **SQL Server Management Studio 21**)
 - Contiene la tabla Alumnos
-- La cadena de conexión se configura en `App.config`
+- La cadena de conexión se configura en `SchoolContext.cs` dentro de **Visual Studio 2022**
 
 ## Funcionalidades
 - Crear, leer, actualizar y eliminar registros (CRUD)
